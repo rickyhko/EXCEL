@@ -15,4 +15,8 @@ Customer Commute: Evaluates the relationship between daily commute distance and 
 
 Interactive Slicers: Enables dynamic filtering by Marital Status, Education Level, and Region.
 
+## Dataset & Worksheet
+
+[Excel Files](https://github.com/rickyhko/EXCEL/blob/main/Excel%20Project%20Dataset%20%26%20worksheet.xlsx)
+
 <img width="1116" height="701" alt="image" src="https://github.com/user-attachments/assets/0f96abf3-4207-448e-b60e-17e81c4a60a8" />
